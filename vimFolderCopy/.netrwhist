@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/jqueja/calpolycs/csc321/csc321-mastery/texFiles/practice'
+let g:netrw_dirhist_3='/Users/jqueja/calpolycs/csc430/assignment-5-jqueja'
+let g:netrw_dirhist_2='/Users/jqueja/calpolycs/csc430/assignment-3-jqueja'
+let g:netrw_dirhist_1='/Users/jqueja/calpolycs/csc430/assignment-2-jqueja'
+let g:netrw_dirhist_0='/Users/jqueja/calpolycs/csc430/assignment-1-jqueja'
+let g:netrw_dirhist_9='/Users/jqueja/calpolycs/csc349/asgn3-jqueja'
+let g:netrw_dirhist_8='/Users/jqueja/calpolycs/csc349/asgn6-jqueja'
+let g:netrw_dirhist_7='/Users/jqueja/calpolycs/csc349/asgn5-jqueja'
+let g:netrw_dirhist_6='/Users/jqueja/calpolycs/cpe225/asgn3'
+let g:netrw_dirhist_5='/Users/jqueja/calpolycs/csc349/asgn4-jqueja'
